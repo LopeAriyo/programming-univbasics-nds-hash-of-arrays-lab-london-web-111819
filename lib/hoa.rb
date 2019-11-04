@@ -13,6 +13,6 @@ def add_character(show, name)
   # name is assigned to Dave
   # we want to add Dave to the end of the chipmunks array
 
-  BASE_HOA[show].push(name)
+  #BASE_HOA[show].push(name)
   #p BASE_HOA[show]
 end
